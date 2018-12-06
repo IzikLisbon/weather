@@ -1,0 +1,5 @@
+/** Title of an alert view when user experienced communication error */
+"NETWORK_ERROR_ALERT_TITLE" = "Network Error";
+
+/** Title of an alert view when user experienced communication error */
+"NETWORK_ERROR_ALERT_MESSAGE" = "Oops... there seems to be to a network error, please try again later";
